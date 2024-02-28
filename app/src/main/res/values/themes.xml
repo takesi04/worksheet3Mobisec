@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sis2125_AlisherMussirkegenov_worksheet3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#96090f</item>
+    </style>
+    <style name="Theme.Sis2125_AlisherMussirkegenov_worksheet3" parent="Base.Theme.Sis2125_AlisherMussirkegenov_worksheet3" />
+</resources>

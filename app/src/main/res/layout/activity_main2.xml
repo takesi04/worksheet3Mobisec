@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur placerat nisi erat, a viverra sapien condimentum at. Vivamus lobortis porttitor metus quis semper. Vivamus dapibus turpis convallis sagittis hendrerit. Morbi sodales et ipsum sed efficitur. Vestibulum convallis, enim id sodales lobortis, purus nisl semper tellus, vel tempus risus justo at odio. Integer eu ex lacinia, pharetra neque elementum, semper metus. Nam eget imperdiet libero, a aliquam ex. Suspendisse lobortis, enim ac convallis iaculis, erat sem viverra quam, ac laoreet tortor dui vitae urna. Aliquam a magna ut nulla molestie tincidunt. Maecenas cursus lorem blandit, tempus ligula vitae, sagittis nisl. Etiam fermentum massa ac metus viverra cursus ut nec lectus. Sed urna magna, sollicitudin at pellentesque ut, ultricies ac odio. Phasellus consectetur justo id odio scelerisque tincidunt. Nunc malesuada, eros eget ultrices tincidunt, metus nibh blandit ligula, vel blandit massa urna eget urna. Maecenas id nulla finibus, aliquam risus id, faucibus justo. Fusce orci enim, efficitur nec vestibulum ac, ullamcorper eget nunc.
+
+Ut et semper tortor. Donec ut porta odio. Nulla malesuada sit amet orci a rhoncus. Donec a semper nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam vehicula sagittis nulla, vitae iaculis massa posuere vitae. Duis a dolor ac elit consequat porta. Sed id volutpat risus. Praesent eu est at erat elementum imperdiet et vel sem. Quisque nec lacus id neque pulvinar faucibus. Cras at dui ligula. Morbi sed finibus lacus, vitae imperdiet metus.
+
+Morbi vestibulum magna eu lacus vulputate ultrices. Integer suscipit metus elit. Quisque dapibus malesuada ante, vitae blandit metus lacinia vitae. Mauris aliquam ligula ac dolor condimentum, id convallis nisi blandit. Integer posuere nunc vitae tellus tristique, quis fringilla leo scelerisque. Nam tempus convallis dolor nec molestie. Quisque sed ex tempus sem cursus tristique non et libero. Pellentesque tempor metus sem, id mattis lorem feugiat eget. Quisque dapibus porttitor turpis placerat vestibulum. Vestibulum nec augue ac nibh venenatis sollicitudin a in sapien. Curabitur id metus elementum, congue massa a, semper velit.
+
+Etiam commodo tempor nisl at hendrerit. Praesent dictum erat ante. Phasellus porttitor auctor risus, vel pharetra sapien consectetur quis. Suspendisse potenti. Nullam vehicula, urna non iaculis viverra, justo diam auctor metus, et sodales est massa non velit. In non sapien blandit, malesuada tellus eu, rutrum nisl. Nunc nec lorem dolor. Phasellus maximus velit et nibh fringilla, id efficitur arcu pretium. In facilisis ex ac odio scelerisque, ut luctus elit bibendum. Ut blandit tortor vel odio luctus dapibus. Aliquam vestibulum hendrerit dolor id dignissim. Sed a nibh sed libero pulvinar luctus. Sed ut semper lorem.
+
+Nam faucibus, justo a tempus pellentesque, nisi leo aliquet justo, imperdiet gravida ligula elit non ex. Pellentesque lacus lectus, tempor et neque eu, aliquet aliquam lectus. Nam luctus interdum rutrum. Donec efficitur semper libero, in facilisis metus consequat eget. Cras eu mollis justo, eget molestie nisi. Sed eu nunc dui. Proin in augue a libero tristique aliquet. Vivamus ligula enim, eleifend ut interdum sit amet, dignissim sed mauris. Duis et velit ac nisi lobortis egestas. "
+
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="98dp"
+            tools:layout_editor_absoluteY="94dp" />
+
+
+
+
+    </ScrollView>
+</LinearLayout>
